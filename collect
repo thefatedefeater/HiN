@@ -1,10 +1,6 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/803a2957-2f05-4259-acab-78e2904d0a6d@104.17.47.75:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%98HINminer",
-        "vless:\/\/803a2957-2f05-4259-acab-78e2904d0a6d@104.16.225.78:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%98HINminer",
-        "vless:\/\/Telegram-ipV2Ray-xae@104.17.147.22:80\/?type=ws&amp;encryption=none&amp;host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;path=%2FTelegram-ipV2Ray%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%F0%9F%94%98HINminer<\/pre>"
-    ],
+    "vless": [],
     "trojan": [],
     "ss": [],
     "tuic": [],
